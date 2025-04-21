@@ -28,6 +28,10 @@ export default {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
 				},
+				navy: "#0A192F",
+				teal: "#64FFDA",
+				textPrimary: "#CCD6F6", 
+				textSecondary: "#8892B0",
 				secondary: {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
